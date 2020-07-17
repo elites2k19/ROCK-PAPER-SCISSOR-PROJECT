@@ -14,7 +14,7 @@ An AI to play the Rock Paper Scissors game
 
 Install the dependencies
 ```sh
-$ pip install -r requirements.txt
+$ pip install -r versions.txt
 ```
 Gather Images for each gesture (rock, paper and scissors and None):
 In this example, we gather 200 images for the "rock" gesture
